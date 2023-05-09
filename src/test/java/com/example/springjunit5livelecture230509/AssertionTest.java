@@ -1,6 +1,6 @@
 package com.example.springjunit5livelecture230509;
 
-import com.example.springjunit5livelecture230509prep.calculator.Calculator;
+]import com.example.springjunit5livelecture230509.calculator.Calculator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
